@@ -1,0 +1,44 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "extends" : [
+    "standard",
+    "standard-react"
+  ],
+  "plugins": [
+    "babel",
+    "react"
+  ],
+  "globals": {
+    "fetch": true,
+    "__DEV__": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+        "jsx": true
+      }
+  },
+  "rules": {
+    "semi" : [2, "never"],
+    "max-len": [1, 120, 2],
+    "yield-star-spacing": [2, "before"],
+    "generator-star-spacing": 0,
+    "babel/generator-star-spacing": [2, "before"],
+    "comma-dangle": [1, "always-multiline"],
+    "no-var": 2,
+    "jsx-quotes": [1, "prefer-single"],
+    "react/jsx-no-bind": [2, {
+         "allowArrowFunctions": true,
+         "allowBind": false,
+         "ignoreRefs": true
+     }],
+    "camelcase": [0, {"properties": "always"}],
+    "no-duplicate-imports": [1, { "includeExports": false }],
+  }
+}
