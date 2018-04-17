@@ -1,0 +1,59 @@
+{
+  "cards": [
+    {
+      "card": "card 0",
+      "category": "W",
+      "id": 0,
+      "lead": "",
+      "length": 136,
+      "open": "",
+      "open_or": "",
+      "opener_classic": "",
+      "opener_weird": ""
+    },
+    {
+      "card": "card 1",
+      "category": "W",
+      "id": 1,
+      "lead": "",
+      "length": 136,
+      "open": "",
+      "open_or": "",
+      "opener_classic": "",
+      "opener_weird": ""
+    },
+    {
+      "card": "card 2",
+      "category": "W",
+      "id": 2,
+      "lead": "",
+      "length": 136,
+      "open": "",
+      "open_or": "",
+      "opener_classic": "",
+      "opener_weird": ""
+    },
+    {
+      "card": "card 3",
+      "category": "W",
+      "id": 3,
+      "lead": "",
+      "length": 136,
+      "open": "",
+      "open_or": "",
+      "opener_classic": "",
+      "opener_weird": ""
+    },
+    {
+      "card": "card 4",
+      "category": "W",
+      "id": 4,
+      "lead": "",
+      "length": 136,
+      "open": "",
+      "open_or": "",
+      "opener_classic": "",
+      "opener_weird": ""
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-deck-swiper@github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+        "scope": null,
+        "escapedName": "react-native-deck-swiper",
+        "name": "react-native-deck-swiper",
+        "rawSpec": "github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+        "spec": "github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:alexvegner/react-native-deck-swiper.git#reduce-tocuch-sensitive",
+          "sshUrl": "git+ssh://git@github.com/alexvegner/react-native-deck-swiper.git#reduce-tocuch-sensitive",
+          "httpsUrl": "git+https://github.com/alexvegner/react-native-deck-swiper.git#reduce-tocuch-sensitive",
+          "gitUrl": "git://github.com/alexvegner/react-native-deck-swiper.git#reduce-tocuch-sensitive",
+          "shortcut": "github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+          "directUrl": "https://raw.githubusercontent.com/alexvegner/react-native-deck-swiper/reduce-tocuch-sensitive/package.json"
+        }
+      },
+      "/Users/idiot/Documents/its-not-that-deep"
+    ]
+  ],
+  "_from": "alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+  "_id": "react-native-deck-swiper@1.3.0",
+  "_inCache": true,
+  "_location": "/react-native-deck-swiper",
+  "_phantomChildren": {
+    "fbjs": "0.8.16",
+    "loose-envify": "1.3.1"
+  },
+  "_requested": {
+    "raw": "react-native-deck-swiper@github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+    "scope": null,
+    "escapedName": "react-native-deck-swiper",
+    "name": "react-native-deck-swiper",
+    "rawSpec": "github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+    "spec": "github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:alexvegner/react-native-deck-swiper.git#reduce-tocuch-sensitive",
+      "sshUrl": "git+ssh://git@github.com/alexvegner/react-native-deck-swiper.git#reduce-tocuch-sensitive",
+      "httpsUrl": "git+https://github.com/alexvegner/react-native-deck-swiper.git#reduce-tocuch-sensitive",
+      "gitUrl": "git://github.com/alexvegner/react-native-deck-swiper.git#reduce-tocuch-sensitive",
+      "shortcut": "github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+      "directUrl": "https://raw.githubusercontent.com/alexvegner/react-native-deck-swiper/reduce-tocuch-sensitive/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/alexvegner/react-native-deck-swiper.git#8362fec2576d102bd9200193946cab7077425eb6",
+  "_shasum": "35ac207993b72575c5207d9055e8875a45acc0e3",
+  "_shrinkwrap": null,
+  "_spec": "react-native-deck-swiper@github:alexvegner/react-native-deck-swiper#reduce-tocuch-sensitive",
+  "_where": "/Users/idiot/Documents/its-not-that-deep",
+  "author": {
+    "name": "Alexandre Brillant"
+  },
+  "bugs": {
+    "url": "https://github.com/alexbrillant/react-native-deck-swiper/issues"
+  },
+  "dependencies": {
+    "prop-types": "15.5.10"
+  },
+  "description": "Awesome tinder like card swiper for react-native. Highly Customizable!",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^4.4.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-react": "^5.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.2.1",
+    "eslint-plugin-standard": "^3.0.1",
+    "jest": "18.1.0",
+    "jest-cli": "^18.1.0",
+    "prettier-eslint": "^6.4.2",
+    "prettier-eslint-cli": "^4.1.1",
+    "react-test-renderer": "15.4.2"
+  },
+  "eslintConfig": {
+    "parser": "babel-eslint",
+    "extends": [
+      "standard",
+      "standard-react"
+    ],
+    "parserOptions": {
+      "ecmaFeatures": {
+        "jsx": true
+      }
+    }
+  },
+  "gitHead": "8362fec2576d102bd9200193946cab7077425eb6",
+  "homepage": "https://github.com/alexbrillant/react-native-deck-swiper#readme",
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "tinder",
+    "cards",
+    "card",
+    "swipe",
+    "swiper",
+    "deck",
+    "animation"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-deck-swiper",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "15.4.2",
+    "react-native": "0.41.2"
+  },
+  "readme": "## react-native-deck-swiper\n[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)\n[![npm version](https://badge.fury.io/js/react-native-deck-swiper.svg)](https://badge.fury.io/js/react-native-deck-swiper)\n## Installation\n```\nnpm install react-native-deck-swiper --save\n```\n\n## Usage with images (workaround)\n\nRendering images in a card causes flickering. React Native's Image component handles image caching like browsers for the most part. This causes flickering. \n\nUsing [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) solves these issues.\n\n## Preview\n\n![App preview](/animation.gif)\n![App preview2](/animation2.gif)\n\n\n## Props\n\n### Card props\n\n| Props    | type   | description                                                                                             | required | default                          |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|:----------------------------------|:------------|\n| cards    | array | array of data for the cards to be rendered | required |\n| renderCard    | func(cardData) | function to render the card based on the data | required |\n| onSwipedAll| func | function to be called when all cards have been swiped | | () => {} |\n| onSwiped | func | function to be called when a card is swiped. it receives the swiped card index | | (cardIndex) => {} |\n| onSwipedLeft | func | function to be called when a card is swiped left. it receives the swiped card index | | (cardIndex) => {} |\n| onSwipedRight | func | function to be called when a card is swiped right. it receives the swiped card index |  | (cardIndex) => {} |\n| onSwipedTop | func | function to be called when a card is swiped top. it receives the swiped card index | | (cardIndex) => {} |\n| onSwipedBottom | func | function to be called when a card is swiped bottom. it receives the swiped card index | | (cardIndex) => {} |\n| cardIndex | number | cardIndex to start with | | 0 |\n| infinite | bool | keep swiping indefinitely | | false |\n| horizontalSwipe | bool | enable/disable horizontal swiping | | true |\n| verticalSwipe | bool | enable/disable vertical swiping | | true |\n| showSecondCard | bool | enable/disable second card while swiping | | true |\n\n### Swipe animation props\n\n| Props    | type   | description                                                                                             | default                          |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|:----------------------------------|\n| verticalThreshold | number | vertical swipe threshold  | height / 5 |\n| horizontalThreshold | number | horizontal swipe threshold  | width / 4 |\n| swipeAnimationDuration | number | duration of the swipe animation | 350 |\n| disableBottomSwipe | bool | disable bottom swipe | false |\n| disableLeftSwipe | bool | disable left swipe | false |\n| disableRightSwipe | bool | disable right swipe | false |\n| disableTopSwipe | bool | disable top swipe | false |\n\n### Zoom animation props\n\n| Props    | type   | description                                                                                             | default                          |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|:----------------------------------|\n| secondCardZoom | number | second card zoom | 0.97 |\n| zoomAnimationDuration | number | duration of the zoom animation | 100 |\n| zoomFriction | number | zoom spring animation friction | 7 |\n\n### Rotation animation props\n\n| Props    | type   | description                                                                                             |  default                          |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|:----------------------------------|\n| inputRotationRange | array | x values range for the rotation output | [-width / 2, 0, width / 2] |\n| outputRotationRange | array | rotation values for the x values in inputRotationRange |  [\"-10deg\", \"0deg\", \"10deg\"] |\n\n### Opacity animation props\n| Props    | type   | description                                                                                             | default                          |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|:----------------------------------|\n| animateCardOpacity| bool | animate card opacity | false |\n| inputCardOpacityRangeX | array | pan x card opacity input range | [-width / 2, -width / 3, 0, width / 3, width / 2] |\n| outputCardOpacityRangeX | array | opacity values for the values in inputCardOpacityRangeX | [0.8, 1, 1, 1, 0.8] |\n| inputCardOpacityRangeY | array | pan y card opacity input range | [-height / 2, -height / 3, 0, height / 3, height / 2]\n| outputCardOpacityRangeY | array | opacity values for the values in inputCardOpacityRangeY | [0.8, 1, 1, 1, 0.8] |\n| animateOverlayLabelsOpacity| bool | animate card overlay labels opacity | false |\n| inputOverlayLabelsOpacityRangeX | array | pan x overlay labels opacity input range | [-width / 3, -width / 4, 0, width / 4, width / 3] |\n| outputOverlayLabelsOpacityRangeX | array | opacity values for the values in inputOverlayLabelsOpacityRangeX | [1, 0, 0, 0, 1] |\n| inputOverlayLabelsOpacityRangeY | array | pan x overlay labels opacity input range | [-height / 4, -height / 5, 0, height / 5, height / 4] |\n| outputOverlayLabelsOpacityRangeY | array | opacity values for the values in inputOverlayLabelsOpacityRangeY | [1, 0, 0, 0, 1] |\n\n2 steps of inputOverlayLabelsOpacityRangeX and inputOverlayLabelsOpacityRangeY should match horizontalThreshold and verticalThreshold, respectively.\n\n### Swipe overlay labels\n| Props    | type   | description                                                                                             | default                          |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|:----------------------------------|\n| overlayLabels| object | swipe labels info | null, see below for format |\n\nDemo inside the [Exemples Folder](https://github.com/alexbrillant/react-native-deck-swiper/tree/master/Exemples)\n\n```javascript\n{\n  bottom: {\n    title: 'BLEAH',\n    swipeColor: '#946C8C',\n    backgroundOpacity: '0.75',\n    fontColor: '#FFF'\n  },\n  left: {\n    title: 'NOPE',\n    swipeColor: '#4A2359',\n    backgroundOpacity: '0.75',\n    fontColor: '#FFF'\n  },\n  right: {\n    title: 'LIKE',\n    swipeColor: '#FA9F8C',\n    backgroundOpacity: '0.75',\n    fontColor: '#FFF'\n  },\n  top: {\n    title: 'SUPER LIKE',\n    swipeColor: '#FFC37B',\n    backgroundOpacity: '0.75',\n    fontColor: '#FFF'\n  }\n}\n```\n\n### Swipe back to previous card props\n\nMake sure you set showSecondCard={false} for smoother and proper transitions while going back to previous card.\n\n\n| Props    | type   | description                                                                                             | default                          |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|:----------------------------------|\n|goBackToPreviousCardOnSwipeLeft | bool | previous card is rendered on left swipe | false \n|goBackToPreviousCardOnSwipeRight| bool | previous card is rendered on right swipe | false \n|goBackToPreviousCardOnSwipeTop| bool | previous card is rendered on top swipe | false\n|goBackToPreviousCardOnSwipeBottom | bool |previous card is rendered on bottom swipe  | false\n\n### Style props\n\n| Props    | type   | description                                                                                             | default                          |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|:----------------------------------|\n| backgroundColor | number | background color for the view containing the cards | '#4FD0E9' |\n| marginTop | number | marginTop for the swiper container | 0 |\n| marginBottom | number | marginBottom for the swiper container | 0 |\n| cardVerticalMargin | number | card vertical margin | 60 |\n| cardHorizontalMargin | number | card horizontal margin | 20 |\n| childrenOnTop | bool | render children on top or not | false |\n| cardStyle | node | override swipable card style | {} |\n\n### Methods\n\nTo trigger imperative animations, you can use a reference to the Swiper component.\n\n| Props    | arguments   | description                                                                                             |\n|:----------|:--------|:---------------------------------------------------------------------------------------------------------|\n| swipeLeft | mustDecrementCardIndex = false | swipe left to the next card |\n| swipeRight | mustDecrementCardIndex = false  | swipe right to the next card |\n| swipeTop | mustDecrementCardIndex = false | swipe top to the next card |\n| swipeBottom | mustDecrementCardIndex = false  | swipe bottom to the next card |\n| jumpToCardIndex | cardIndex | set the current card index |\n\n## Usage example\n\n\n```javascript\nrender () {\n    <View style={styles.container}>\n        <Swiper\n            cards={['DO', 'MORE', 'OF', 'WHAT', 'MAKES', 'YOU', 'HAPPY']}\n            renderCard={(card) => {\n                return (\n                    <View style={styles.card}>\n                        <Text style={styles.text}>{card}</Text>\n                    </View>\n                )\n            }}\n            onSwiped={(cardIndex) => {console.log(cardIndex)}}\n            onSwipedAll={() => {console.log('onSwipedAll')}}\n            cardIndex={0}\n            backgroundColor={'#4FD0E9'}>\n            <Button\n                onPress={() => {console.log('oulala')}}\n                title=\"Press me\">\n                You can press me\n            </Button>\n        </Swiper>\n    </View>\n}\n```\nDemo inside the [Exemples Folder](https://github.com/alexbrillant/react-native-deck-swiper/tree/master/Exemples)\n\n## Stylesheet example\n\n```javascript\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#F5FCFF'\n  },\n  card: {\n    flex: 1,\n    borderRadius: 4,\n    borderWidth: 2,\n    borderColor: '#E8E8E8',\n    justifyContent: 'center',\n    backgroundColor: 'white',\n  },\n  text: {\n    textAlign: 'center',\n    fontSize: 50,\n    backgroundColor: 'transparent'\n  }\n})\n```\n## Todo(contributions are welcome)\n\nUnderlaying card offset to achieve a stack effect\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbrillant/react-native-deck-swiper.git"
+  },
+  "scripts": {
+    "format": "prettier-eslint \"./**/*.js\" --ignore \"./node_modules/**\" --write",
+    "lint": "standard --verbose | snazzy",
+    "lint:fix": "eslint --fix Swiper.js index.js styles.js",
+    "lintdiff": "git diff --name-only --cached --relative | grep '\\.js$' | xargs standard | snazzy",
+    "test": "jest --coverage"
+  },
+  "version": "1.3.0"
+}

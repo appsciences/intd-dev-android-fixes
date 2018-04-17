@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "intd",
+    "description": "F**ck smalltalk let's get weird",
+    "slug": "its-not-that-deep-sam-escolas-android-fixes",
+    "privacy": "public",
+    "sdkVersion": "20.0.0",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "loading": {
+      "icon": "./assets/icons/loading.png",
+      "hideExponentText": true,
+      "backgroundColor": "#FFFFFF"
+
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "bundleIdentifier": "com.whateverthemood.itsnotthatdeep",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.whateverthemood.itsnotthatdeepprod",
+      "versionCode":1
+    }
+  }
+}
