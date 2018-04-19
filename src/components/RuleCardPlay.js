@@ -6,7 +6,7 @@ import styles from '../styles/styles'
 const RuleCardPlay = ({onDone, doneText}) =>
     <View style={styles.viewStyle}>
         <Text style={styles.cardText}>
-          ----------------------------
+          Screen 5
       </Text>
           <Text
               style={localStyles.tncText}

@@ -5,6 +5,7 @@ import styles from '../styles/styles'
 
 const RuleCard3 = () =>
     <View style={styles.viewStyle}>
+              <Text>Screen 2</Text>
 
     </View>
 
