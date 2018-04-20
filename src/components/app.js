@@ -1,4 +1,4 @@
-import {Font} from "expo";
+import {Font, LinearGradient} from "expo";
 import React from "react";
 import GlobalSwiper from "../../mods/react-native-swiper";
 import {StyleSheet, AsyncStorage, Image, Modal, View} from "react-native";
@@ -299,7 +299,7 @@ export default class App extends React.Component {
 
     render = () => {
 
-        return <View style={{flex: 1}}>
+        return <LinearGradient colors={['#90ed9a','#88f7e7']} style={{flex: 1}} start={[0,0]} end={[1,0]} >
             <Image
                 source={background}
                 style={styles.backgroundImage}
@@ -418,7 +418,7 @@ export default class App extends React.Component {
 
             </Dialog>
             </Image>
-        </View>
+        </LinearGradient>
     }
 
 
